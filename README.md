@@ -8,7 +8,7 @@ Generative distillation significantly accelerates text-to-image (T2I) generation
 In this work, we propose Geometry-Aware Distillation (GAD), a sensitivity-preserving framework that aligns the local functional behavior of teacher and student models. Specifically, GAD matches Jacobian-vector products (JVP) with respect to input noise, enabling the student to reproduce the teacher's differential response to perturbations. Extensive experiments across multiple T2I paradigms demonstrate that GAD significantly restores sensitivity and improves diversity while maintaining high visual fidelity.
 
 <p align="center">
-	<img src="assets/teaser.png", width="600"
+	<img src="assets/teaser.png", width="600">
 
 ## 🌟 Key Features
 - Model-Agnostic Regularizer: GAD serves as a plug-and-play regularization term that can be seamlessly integrated with existing distillation paradigms.
