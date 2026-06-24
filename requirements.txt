@@ -1,0 +1,17 @@
+diffusers==0.35.2
+transformers==4.57.1
+accelerate==0.32.0
+safetensors==0.7.0
+numpy==1.26.4
+pillow==10.4.0
+opencv-python==4.11.0.86
+scipy==1.15.3
+einops==0.8.1
+tqdm==4.67.1
+PyYAML==6.0.3
+open_clip_torch==3.3.0
+lpips==0.1.4
+scikit-learn==1.7.2
+matplotlib==3.10.8
+pandas==2.3.3
+datasets==4.4.1
