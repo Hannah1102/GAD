@@ -39,7 +39,6 @@ pip install -r requirements.txt
 The following single-GPU command is a runnable GAD training example. It uses the geometric-alignment loss (`--lambda_nsp` and `--nsp_epsilon`).
 
 ```bash
-conda activate pixart
 
 CUDA_VISIBLE_DEVICES=0 accelerate launch \
   --main_process_port 29500 \
