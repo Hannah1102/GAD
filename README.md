@@ -1,4 +1,8 @@
 # Restoring Initial Noise Sensitivity in Text-to-Image Distillation via Geometric Alignment
+
+[![arXiv](https://img.shields.io/badge/arXiv-2606.01651-b31b1b.svg)](https://arxiv.org/abs/2606.01651)
+[![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-Model-yellow)](https://huggingface.co/Hannah1102/GAD-PixArt-XL-2-512x512)
+
 This repository contains the official code for the ICML 2026 paper "Restoring Initial Noise Sensitivity in Text-to-Image Distillation via Geometric Alignment".
 
 🚀 The training implementation and a reproducible PixArt example are available in this repository.
